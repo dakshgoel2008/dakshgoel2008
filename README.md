@@ -4,9 +4,9 @@ Hi👋, Daksh here.
 
 ```javascript
 const Daksh Goel = {
-    pronouns: "He" | "Him",
+    pronouns: "He" | "Him" | "His",
     askMeAbout: ["AI", "MERN", "CP"],
-    aka: UG_BEAST
+    aka: UG_BEAST,
     mailMe: daksh.goel2008@gmail.com 
 };
 ```
