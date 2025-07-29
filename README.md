@@ -1,16 +1,31 @@
-## Hi there 👋
+---
+Hi👋, Daksh here.
+---
 
-<!--
-**dakshgoel2008/dakshgoel2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const Daksh Goel = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["AI", "MERN", "CP"],
+    aka: UG_BEAST
+    mailMe: daksh.goel2008@gmail.com 
+};
+```
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=dakshgoel2008&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=dakshgoel2008&theme=radical" alt="GitHub Streak Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=dakshgoel2008&layout=compact&theme=radical" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+---
