@@ -19,9 +19,9 @@ const Daksh Goel = {
     <td>
       <img src="https://streak-stats.demolab.com?user=dakshgoel2008&theme=radical" alt="GitHub Streak Stats"/>
     </td>
-<!--     <td>
+    <td>
       <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=dakshgoel2008&layout=compact&theme=radical" alt="Top Languages"/>
-    </td> -->
+    </td>
   </tr>
 </table>
 
