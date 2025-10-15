@@ -7,7 +7,7 @@ const Daksh Goel = {
     pronouns: "He" | "Him" | "His",
     askMeAbout: ["AI", "MERN", "CP"],
     aka: UG_BEAST,
-    mailMe: daksh.goel2008@gmail.com 
+    mailMe: goel.daksh2008@gmail.com 
 };
 ```
 
