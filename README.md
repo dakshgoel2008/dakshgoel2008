@@ -1,7 +1,5 @@
 # Hi👋, Daksh here.
 
-![](https://komarev.com/ghpvc/?username=dakshgoel2008&style=flat-square&color=blueviolet&label=PV)
-
 ```javascript
 const DakshGoel = {
     pronouns: "He" | "Him" | "His",
