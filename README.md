@@ -24,7 +24,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=goel.daksh2008@gmail.com&su=Hello%20Daksh"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
 
 ## Tools I prefer to use
 
