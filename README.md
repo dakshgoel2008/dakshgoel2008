@@ -24,10 +24,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=goel.daksh2008@gmail.com&su=Hello%20Daksh"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dakshgoel2008&style=flat-square&color=blue&label=Profile+views" alt="Profile Views">
-</p>
-
 ---
 
 ## Tools I prefer to use
