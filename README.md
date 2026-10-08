@@ -35,14 +35,6 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Top Projects
-
-- **[SmartLex](https://github.com/dakshgoel2008/SmartLex)**: Desktop file search engine with RAKE-based NLP and a parallel pipeline for PDF/DOCX search
-- **[Chess Engine](https://github.com/dakshgoel2008/Chess_Engine)**: Chess AI using NegaMax, Alpha-Beta pruning and a transposition table
-- **[GPT](https://github.com/dakshgoel2008/gpt)**: GPT built from scratch in Python: tokenizer · multi-head attention · KV cache · training loop · sampling
-- **[Dynamic Price Prediction](https://github.com/dakshgoel2008/Dynamic_price_prediction_model)**: Causal ML pricing engine using Double ML (EconML) and XGBoost to maximize expected revenue
-- **[Visual Sudoku Solver](https://github.com/dakshgoel2008/Visual_Sudoku_Solver)**: CNN-based digit recognition (98.3% accuracy) feeding a C++ backtracking solver
-- **[WhatsUp](https://github.com/dakshgoel2008/WhatsUp)**: Real-time chat app with WebSockets, Redis Pub/Sub and cursor-based pagination
 
 ## Problem Solving
 
