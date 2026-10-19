@@ -27,4 +27,4 @@
 
 ---
 
-##### I love solving algorithmic problems. My solutions: [CSES Problem Set](https://github.com/dakshgoel2008/CSES) · [Advent Of Code](https://github.com/dakshgoel2008/AOC) · [Google Kick Start](https://github.com/dakshgoel2008/Google_Kickstart_Sols)
+##### I love solving algorithmic problems. My solutions: [CSES Problem Set](https://github.com/dakshgoel2008/CSES) · [Advent Of Code](https://github.com/dakshgoel2008/AOC) · [Google Kick Start](https://github.com/dakshgoel2008/Google_Kickstart_Sols)· [Project Euler](https://github.com/dakshgoel2008/Project-Euler-Solutions)
